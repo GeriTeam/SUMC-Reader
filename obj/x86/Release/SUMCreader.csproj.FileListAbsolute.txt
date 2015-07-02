@@ -1,0 +1,2 @@
+D:\Dev Projects\SUMCreader\bin\Release\SUMCreader.exe.config
+D:\Dev Projects\SUMCreader\obj\x86\Release\SUMCreader.csproj.ResolveComReference.cache

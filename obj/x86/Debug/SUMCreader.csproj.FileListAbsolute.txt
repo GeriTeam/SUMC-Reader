@@ -1,0 +1,24 @@
+D:\Dev Projects\SUMCreader\bin\Debug\sumcdb.mdb
+D:\Dev Projects\SUMCreader\bin\Debug\SUMCreader.exe.config
+D:\Dev Projects\SUMCreader\bin\Debug\SUMCreader.exe
+D:\Dev Projects\SUMCreader\bin\Debug\SUMCreader.pdb
+D:\Dev Projects\SUMCreader\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dev Projects\SUMCreader\obj\x86\Debug\SUMCreader.csproj.ResolveComReference.cache
+D:\Dev Projects\SUMCreader\obj\x86\Debug\SUMCreader.Mform.resources
+D:\Dev Projects\SUMCreader\obj\x86\Debug\SUMCreader.labelControl.resources
+D:\Dev Projects\SUMCreader\obj\x86\Debug\SUMCreader.Properties.Resources.resources
+D:\Dev Projects\SUMCreader\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dev Projects\SUMCreader\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dev Projects\SUMCreader\obj\x86\Debug\SUMCreader.exe
+D:\Dev Projects\SUMCreader\obj\x86\Debug\SUMCreader.pdb
+D:\Dev Projects\sumc reader\bin\Debug\SUMCreader.exe.config
+D:\Dev Projects\sumc reader\obj\x86\Debug\SUMCreader.csproj.ResolveComReference.cache
+D:\Dev Projects\sumc reader\obj\x86\Debug\SUMCreader.exe
+D:\Dev Projects\sumc reader\obj\x86\Debug\SUMCreader.pdb
+D:\Dev Projects\sumc reader\bin\Debug\sumcdb.mdb
+D:\Dev Projects\sumc reader\bin\Debug\SUMCreader.exe
+D:\Dev Projects\sumc reader\bin\Debug\SUMCreader.pdb
+D:\Dev Projects\sumc reader\obj\x86\Debug\SUMCreader.Mform.resources
+D:\Dev Projects\sumc reader\obj\x86\Debug\SUMCreader.labelControl.resources
+D:\Dev Projects\sumc reader\obj\x86\Debug\SUMCreader.Properties.Resources.resources
+D:\Dev Projects\sumc reader\obj\x86\Debug\SUMCreader.csproj.GenerateResource.Cache
